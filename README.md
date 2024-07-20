@@ -30,7 +30,6 @@ Provide the file path as a command-line argument:
 
 ```bash
 python3 main.py /path/to/your/file.txt
-# word counter
 ```
 ##### Example
 ```
